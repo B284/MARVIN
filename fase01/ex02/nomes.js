@@ -1,5 +1,5 @@
-function nomes(nome1,nome2) {
-console.log ('Arthur e Zaphod') 
-console.log('Marvin e Cachalote')   
-
+function nomes(nome1, nome2){
+ return nome1 +" e "+ nome2
+    
 }
+
