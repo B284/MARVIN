@@ -1,5 +1,14 @@
-function penultimo(palavra) {
-    return  palavra [10]
+function finais(palavra) {
+    return palavra.substring(12,9)
 }
+
+
+
+
+
+
+
+
+
 
 
