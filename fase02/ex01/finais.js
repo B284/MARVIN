@@ -1,14 +1,4 @@
-function finais(palavra) {
-    return palavra.substring(12,9)
-}
-
-
-
-
-
-
-
-
-
-
-
+ function maiusculo(palavra) {
+ return palavra.substring(0,3)  .toUpperCase()
+ }
+ 
