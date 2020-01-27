@@ -1,4 +1,4 @@
-function finais(palavra) {
-    return palavra.substr(-2,1);
+ function finais(palavra) {
+    return palavra.substr(-3,4);
 }
 
